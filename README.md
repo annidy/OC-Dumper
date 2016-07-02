@@ -1,5 +1,4 @@
 #OC-Dumper
----
 
 OC-Dumper is a utility I used to got print `NSData` from log
 
